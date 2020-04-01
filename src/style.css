@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+div{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.create_event{
+    float: left;
+    width: 20vw;
+    height: 95vh;
+}
+
+.event_container{
+    float: right;
+    width: 78vw;
+    height: 95vh;
+    margin-right: 1vw;
+}
+
+.btn{
+    background-color: chartreuse;
+    width: 4vw;
+    height: 3vh;
+    border-radius: 4px;
+}
